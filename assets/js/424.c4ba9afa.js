@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[424],{1225:function(t,e,n){"use strict";n.r(e);var s=n(28),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("本文整理自拔都大佬的 《vue3.0管理系统》。")])])}),[],!1,null,null,null);e.default=l.exports}}]);
